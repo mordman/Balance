@@ -1,0 +1,12 @@
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/bin/Debug/net8.0/SourceClearCodeTest.Core.deps.json
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/bin/Debug/net8.0/SourceClearCodeTest.Core.dll
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/bin/Debug/net8.0/SourceClearCodeTest.Core.pdb
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/SourceClearCodeTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/SourceClearCodeTest.Core.AssemblyInfoInputs.cache
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/SourceClearCodeTest.Core.AssemblyInfo.cs
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/SourceClearCodeTest.Core.csproj.CoreCompileInputs.cache
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/SourceClearCodeTest.Core.sourcelink.json
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/SourceClearCodeTest.Core.dll
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/refint/SourceClearCodeTest.Core.dll
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/SourceClearCodeTest.Core.pdb
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/obj/Debug/net8.0/ref/SourceClearCodeTest.Core.dll

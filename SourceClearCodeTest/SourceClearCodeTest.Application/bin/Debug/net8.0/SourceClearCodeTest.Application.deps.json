@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SourceClearCodeTest.Application/1.0.0": {
+        "dependencies": {
+          "SourceClearCodeTest.Core": "1.0.0"
+        },
+        "runtime": {
+          "SourceClearCodeTest.Application.dll": {}
+        }
+      },
+      "SourceClearCodeTest.Core/1.0.0": {
+        "runtime": {
+          "SourceClearCodeTest.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SourceClearCodeTest.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SourceClearCodeTest.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

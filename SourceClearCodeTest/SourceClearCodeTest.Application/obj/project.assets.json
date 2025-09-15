@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SourceClearCodeTest.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SourceClearCodeTest.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SourceClearCodeTest.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SourceClearCodeTest.Core/1.0.0": {
+      "type": "project",
+      "path": "../SourceClearCodeTest.Core/SourceClearCodeTest.Core.csproj",
+      "msbuildProject": "../SourceClearCodeTest.Core/SourceClearCodeTest.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SourceClearCodeTest.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/codespace/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/SourceClearCodeTest.Application.csproj",
+      "projectName": "SourceClearCodeTest.Application",
+      "projectPath": "/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/SourceClearCodeTest.Application.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/SourceClearCodeTest.Core.csproj": {
+              "projectPath": "/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Core/SourceClearCodeTest.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

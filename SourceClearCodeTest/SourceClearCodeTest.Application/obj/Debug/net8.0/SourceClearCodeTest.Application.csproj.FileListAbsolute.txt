@@ -1,0 +1,16 @@
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/bin/Debug/net8.0/SourceClearCodeTest.Application.deps.json
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/bin/Debug/net8.0/SourceClearCodeTest.Application.dll
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/bin/Debug/net8.0/SourceClearCodeTest.Application.pdb
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/bin/Debug/net8.0/SourceClearCodeTest.Core.dll
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/bin/Debug/net8.0/SourceClearCodeTest.Core.pdb
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceClearCodeTest.Application.csproj.AssemblyReference.cache
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceClearCodeTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceClearCodeTest.Application.AssemblyInfoInputs.cache
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceClearCodeTest.Application.AssemblyInfo.cs
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceClearCodeTest.Application.csproj.CoreCompileInputs.cache
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceClearCodeTest.Application.sourcelink.json
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceCl.B602567F.Up2Date
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceClearCodeTest.Application.dll
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/refint/SourceClearCodeTest.Application.dll
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/SourceClearCodeTest.Application.pdb
+/workspaces/Balance/SourceClearCodeTest/SourceClearCodeTest.Application/obj/Debug/net8.0/ref/SourceClearCodeTest.Application.dll
