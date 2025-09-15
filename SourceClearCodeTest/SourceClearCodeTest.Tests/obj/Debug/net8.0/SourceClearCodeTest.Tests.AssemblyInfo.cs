@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SourceClearCodeTest.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4924bf1411fed96686f13258c44580f243e49df4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11800bd0766799d62535e625265310619b50ab78")]
 [assembly: System.Reflection.AssemblyProductAttribute("SourceClearCodeTest.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SourceClearCodeTest.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
