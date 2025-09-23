@@ -15,20 +15,20 @@ SourceClearCodeTest/
 │       ├── IRepository.cs                 # Базовый интерфейс репозитория
 │       └── IUnitOfWork.cs                 # Интерфейс UnitOfWork
 │
-├── SourceClearCodeTest.Infrastructure/     # Слой инфраструктуры
-│   ├── Data/                              # Контекст базы данных
+├── SourceClearCodeTest.Infrastructure/    # Слой инфраструктуры
+│   ├── Data/                              # Контекст базы данных (Справочники и т.п.)
 │   │   └── ApplicationDbContext.cs        # DbContext для Entity Framework
 │   └── Repositories/                      # Реализации репозиториев
 │       ├── ProductRepository.cs           # Репозиторий для работы с продуктами
 │       └── UnitOfWork.cs                  # Реализация паттерна Unit of Work
 │
-├── SourceClearCodeTest.Application/        # Слой бизнес-логики
+├── SourceClearCodeTest.Application/       # Слой бизнес-логики
 │   ├── Interfaces/                        # Интерфейсы сервисов
-│   │   └── IProductService.cs            # Интерфейс сервиса продуктов
+│   │   └── IProductService.cs             # Интерфейс сервиса продуктов
 │   └── Services/                          # Реализации сервисов
 │       └── ProductService.cs              # Сервис для работы с продуктами
 │
-├── SourceClearCodeTest.ConsoleApp/         # Консольное приложение
+├── SourceClearCodeTest.ConsoleApp/        # Консольное приложение
 │   └── Program.cs                         # Точка входа и UI
 │
 └── SourceClearCodeTest.Tests/             # Модульные тесты
